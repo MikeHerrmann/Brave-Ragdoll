@@ -1,0 +1,1355 @@
+fileFormatVersion: 2
+guid: b83aebc4993e61b4ca5471b9b824aa44
+timeCreated: 1496335656
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Brust
+    100004: Camera
+    100006: Cylinder
+    100008: Cylinder.001
+    100010: Cylinder.002
+    100012: Cylinder.003
+    100014: Ellbogen.L
+    100016: Ellbogen.L_end
+    100018: Ellbogen.R
+    100020: Ellbogen.R_end
+    100022: "Fu\xDF-IK.L"
+    100024: "Fu\xDF-IK.L_end"
+    100026: "Fu\xDF-IK.R"
+    100028: "Fu\xDF-IK.R_end"
+    100030: "Fu\xDF.L"
+    100032: "Fu\xDF.L_end"
+    100034: "Fu\xDF.R"
+    100036: "Fu\xDF.R_end"
+    100038: //RootNode
+    100040: Hand-IK.L
+    100042: Hand-IK.L_end
+    100044: Hand-IK.R
+    100046: Hand-IK.R_end
+    100048: Hand.L
+    100050: Hand.L_end
+    100052: Hand.R
+    100054: Hand.R_end
+    100056: "H\xFCfte"
+    100058: Knie.L
+    100060: Knie.L_end
+    100062: Knie.R
+    100064: Knie.R_end
+    100066: Kopf
+    100068: Kopf_end
+    100070: Lamp
+    100072: Oberarm.L
+    100074: Oberarm.R
+    100076: Oberschenkel.L
+    100078: Oberschenkel.R
+    100080: Sphere.004
+    100082: Sphere.005
+    100084: Sphere.006
+    100086: Sphere.007
+    100088: Sphere.009
+    100090: Sphere.012
+    100092: Sphere.021
+    100094: Sphere.022
+    100096: Sphere.023
+    100098: Sphere.038
+    100100: Sphere.041
+    100102: Steuerbone
+    100104: Unterarm.L
+    100106: Unterarm.R
+    100108: Unterschenkel.L
+    100110: Unterschenkel.R
+    400000: Armature
+    400002: Brust
+    400004: Camera
+    400006: Cylinder
+    400008: Cylinder.001
+    400010: Cylinder.002
+    400012: Cylinder.003
+    400014: Ellbogen.L
+    400016: Ellbogen.L_end
+    400018: Ellbogen.R
+    400020: Ellbogen.R_end
+    400022: "Fu\xDF-IK.L"
+    400024: "Fu\xDF-IK.L_end"
+    400026: "Fu\xDF-IK.R"
+    400028: "Fu\xDF-IK.R_end"
+    400030: "Fu\xDF.L"
+    400032: "Fu\xDF.L_end"
+    400034: "Fu\xDF.R"
+    400036: "Fu\xDF.R_end"
+    400038: //RootNode
+    400040: Hand-IK.L
+    400042: Hand-IK.L_end
+    400044: Hand-IK.R
+    400046: Hand-IK.R_end
+    400048: Hand.L
+    400050: Hand.L_end
+    400052: Hand.R
+    400054: Hand.R_end
+    400056: "H\xFCfte"
+    400058: Knie.L
+    400060: Knie.L_end
+    400062: Knie.R
+    400064: Knie.R_end
+    400066: Kopf
+    400068: Kopf_end
+    400070: Lamp
+    400072: Oberarm.L
+    400074: Oberarm.R
+    400076: Oberschenkel.L
+    400078: Oberschenkel.R
+    400080: Sphere.004
+    400082: Sphere.005
+    400084: Sphere.006
+    400086: Sphere.007
+    400088: Sphere.009
+    400090: Sphere.012
+    400092: Sphere.021
+    400094: Sphere.022
+    400096: Sphere.023
+    400098: Sphere.038
+    400100: Sphere.041
+    400102: Steuerbone
+    400104: Unterarm.L
+    400106: Unterarm.R
+    400108: Unterschenkel.L
+    400110: Unterschenkel.R
+    2300000: Cylinder
+    2300002: Cylinder.001
+    2300004: Cylinder.002
+    2300006: Cylinder.003
+    2300008: Sphere.004
+    2300010: Sphere.005
+    2300012: Sphere.006
+    2300014: Sphere.007
+    2300016: Sphere.009
+    2300018: Sphere.012
+    2300020: Sphere.021
+    2300022: Sphere.022
+    2300024: Sphere.023
+    2300026: Sphere.038
+    2300028: Sphere.041
+    3300000: Cylinder
+    3300002: Cylinder.001
+    3300004: Cylinder.002
+    3300006: Cylinder.003
+    3300008: Sphere.004
+    3300010: Sphere.005
+    3300012: Sphere.006
+    3300014: Sphere.007
+    3300016: Sphere.009
+    3300018: Sphere.012
+    3300020: Sphere.021
+    3300022: Sphere.022
+    3300024: Sphere.023
+    3300026: Sphere.038
+    3300028: Sphere.041
+    4300000: Sphere.009
+    4300002: Sphere.038
+    4300004: Sphere.041
+    4300006: Sphere.005
+    4300008: Sphere.006
+    4300010: Sphere.022
+    4300012: Sphere.004
+    4300014: Sphere.007
+    4300016: Sphere.021
+    4300018: Cylinder.003
+    4300020: Cylinder.001
+    4300022: Sphere.012
+    4300024: Cylinder.002
+    4300026: Cylinder
+    4300028: Sphere.023
+    7400000: Armature|Idle
+    7400002: Armature|Run
+    7400004: Armature|StandUpBack
+    7400006: Armature|StandUpBack.001
+    7400008: Armature|StandUpFront
+    7400010: Armature|Walk
+    7400012: Sphere.007|StandUpBack.001
+    7400014: Sphere.007|Walk
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Armature|Run' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Oberarm.L' has scale animation that will
+      be discarded.\n\t'Unterarm.L' has scale animation that will be discarded.\n\t'Hand.L'
+      has scale animation that will be discarded.\n\t'Oberarm.R' has scale animation
+      that will be discarded.\n\t'Unterarm.R' has scale animation that will be discarded.\n\t'Hand.R'
+      has scale animation that will be discarded.\n\nClip 'Armature|StandUpBack' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Oberarm.L' has
+      scale animation that will be discarded.\n\t'Unterarm.L' has scale animation
+      that will be discarded.\n\t'Hand.L' has scale animation that will be discarded.\n\t'Oberarm.R'
+      has scale animation that will be discarded.\n\t'Unterarm.R' has scale animation
+      that will be discarded.\n\t'Hand.R' has scale animation that will be discarded.\n\t'Oberschenkel.L'
+      has scale animation that will be discarded.\n\t'Unterschenkel.L' has scale animation
+      that will be discarded.\n\t'Fu\xDF.L' has scale animation that will be discarded.\n\t'Oberschenkel.R'
+      has scale animation that will be discarded.\n\t'Unterschenkel.R' has scale animation
+      that will be discarded.\n\t'Fu\xDF.R' has scale animation that will be discarded.\n\nClip
+      'Armature|StandUpFront' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Oberarm.L'
+      has scale animation that will be discarded.\n\t'Unterarm.L' has scale animation
+      that will be discarded.\n\t'Hand.L' has scale animation that will be discarded.\n\t'Oberarm.R'
+      has scale animation that will be discarded.\n\t'Unterarm.R' has scale animation
+      that will be discarded.\n\t'Hand.R' has scale animation that will be discarded.\n\t'Oberschenkel.L'
+      has scale animation that will be discarded.\n\t'Unterschenkel.L' has scale animation
+      that will be discarded.\n\t'Fu\xDF.L' has scale animation that will be discarded.\n\t'Oberschenkel.R'
+      has scale animation that will be discarded.\n\t'Unterschenkel.R' has scale animation
+      that will be discarded.\n\t'Fu\xDF.R' has scale animation that will be discarded.\n\nClip
+      'Armature|Walk' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Oberarm.L'
+      has scale animation that will be discarded.\n\t'Unterarm.L' has scale animation
+      that will be discarded.\n\t'Hand.L' has scale animation that will be discarded.\n\t'Oberarm.R'
+      has scale animation that will be discarded.\n\t'Unterarm.R' has scale animation
+      that will be discarded.\n\t'Hand.R' has scale animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Steuerbone
+        weight: 1
+      - path: Armature/Steuerbone/Ellbogen.L
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.L/Ellbogen.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.R
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.R/Ellbogen.R_end
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.L"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.L/Fu\xDF-IK.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.R"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.R/Fu\xDF-IK.R_end"
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.L
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.L/Hand-IK.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.R
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.R/Hand-IK.R_end
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf/Kopf_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf/Sphere.041"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Sphere.005"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L/Hand.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L/Sphere.022"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Sphere.006"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Sphere.004"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R/Hand.R_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R/Sphere.021"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Sphere.007"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Sphere.038"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Cylinder.003"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Cylinder.001"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L/Fu\xDF.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L/Sphere.012"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Cylinder.002"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Cylinder"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R/Fu\xDF.R_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R/Sphere.023"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Sphere.009"
+        weight: 0
+      - path: Armature/Steuerbone/Knie.L
+        weight: 0
+      - path: Armature/Steuerbone/Knie.L/Knie.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Knie.R
+        weight: 0
+      - path: Armature/Steuerbone/Knie.R/Knie.R_end
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Run
+      takeName: Armature|Run
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Steuerbone
+        weight: 1
+      - path: Armature/Steuerbone/Ellbogen.L
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.L/Ellbogen.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.R
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.R/Ellbogen.R_end
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.L"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.L/Fu\xDF-IK.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.R"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.R/Fu\xDF-IK.R_end"
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.L
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.L/Hand-IK.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.R
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.R/Hand-IK.R_end
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf/Kopf_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf/Sphere.041"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Sphere.005"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L/Hand.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L/Sphere.022"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Sphere.006"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Sphere.004"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R/Hand.R_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R/Sphere.021"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Sphere.007"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Sphere.038"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Cylinder.003"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Cylinder.001"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L/Fu\xDF.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L/Sphere.012"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Cylinder.002"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Cylinder"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R/Fu\xDF.R_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R/Sphere.023"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Sphere.009"
+        weight: 0
+      - path: Armature/Steuerbone/Knie.L
+        weight: 0
+      - path: Armature/Steuerbone/Knie.L/Knie.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Knie.R
+        weight: 0
+      - path: Armature/Steuerbone/Knie.R/Knie.R_end
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|StandUpBack
+      takeName: Armature|StandUpBack
+      firstFrame: 0
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Steuerbone
+        weight: 1
+      - path: Armature/Steuerbone/Ellbogen.L
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.L/Ellbogen.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.R
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.R/Ellbogen.R_end
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.L"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.L/Fu\xDF-IK.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.R"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.R/Fu\xDF-IK.R_end"
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.L
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.L/Hand-IK.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.R
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.R/Hand-IK.R_end
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf/Kopf_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf/Sphere.041"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Sphere.005"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L/Hand.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L/Sphere.022"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Sphere.006"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Sphere.004"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R/Hand.R_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R/Sphere.021"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Sphere.007"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Sphere.038"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Cylinder.003"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Cylinder.001"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L/Fu\xDF.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L/Sphere.012"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Cylinder.002"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Cylinder"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R/Fu\xDF.R_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R/Sphere.023"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Sphere.009"
+        weight: 0
+      - path: Armature/Steuerbone/Knie.L
+        weight: 0
+      - path: Armature/Steuerbone/Knie.L/Knie.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Knie.R
+        weight: 0
+      - path: Armature/Steuerbone/Knie.R/Knie.R_end
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|StandUpFront
+      takeName: Armature|StandUpFront
+      firstFrame: 0
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Steuerbone
+        weight: 1
+      - path: Armature/Steuerbone/Ellbogen.L
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.L/Ellbogen.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.R
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.R/Ellbogen.R_end
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.L"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.L/Fu\xDF-IK.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.R"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.R/Fu\xDF-IK.R_end"
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.L
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.L/Hand-IK.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.R
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.R/Hand-IK.R_end
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf/Kopf_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf/Sphere.041"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Sphere.005"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L/Hand.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L/Sphere.022"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Sphere.006"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Sphere.004"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R/Hand.R_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R/Sphere.021"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Sphere.007"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Sphere.038"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Cylinder.003"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Cylinder.001"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L/Fu\xDF.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L/Sphere.012"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Cylinder.002"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Cylinder"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R/Fu\xDF.R_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R/Sphere.023"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Sphere.009"
+        weight: 0
+      - path: Armature/Steuerbone/Knie.L
+        weight: 0
+      - path: Armature/Steuerbone/Knie.L/Knie.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Knie.R
+        weight: 0
+      - path: Armature/Steuerbone/Knie.R/Knie.R_end
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Walk
+      takeName: Armature|Walk
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Steuerbone
+        weight: 1
+      - path: Armature/Steuerbone/Ellbogen.L
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.L/Ellbogen.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.R
+        weight: 0
+      - path: Armature/Steuerbone/Ellbogen.R/Ellbogen.R_end
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.L"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.L/Fu\xDF-IK.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.R"
+        weight: 0
+      - path: "Armature/Steuerbone/Fu\xDF-IK.R/Fu\xDF-IK.R_end"
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.L
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.L/Hand-IK.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.R
+        weight: 0
+      - path: Armature/Steuerbone/Hand-IK.R/Hand-IK.R_end
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf/Kopf_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Kopf/Sphere.041"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Sphere.005"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L/Hand.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Hand.L/Sphere.022"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.L/Unterarm.L/Sphere.006"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Sphere.004"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R/Hand.R_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Hand.R/Sphere.021"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Oberarm.R/Unterarm.R/Sphere.007"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Brust/Sphere.038"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Cylinder.003"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Cylinder.001"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L/Fu\xDF.L_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.L/Unterschenkel.L/Fu\xDF.L/Sphere.012"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Cylinder.002"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Cylinder"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R"
+        weight: 1
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R/Fu\xDF.R_end"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Oberschenkel.R/Unterschenkel.R/Fu\xDF.R/Sphere.023"
+        weight: 0
+      - path: "Armature/Steuerbone/H\xFCfte/Sphere.009"
+        weight: 0
+      - path: Armature/Steuerbone/Knie.L
+        weight: 0
+      - path: Armature/Steuerbone/Knie.L/Knie.L_end
+        weight: 0
+      - path: Armature/Steuerbone/Knie.R
+        weight: 0
+      - path: Armature/Steuerbone/Knie.R/Knie.R_end
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: "H\xFCfte"
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Oberschenkel.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Oberschenkel.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Unterschenkel.L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Unterschenkel.R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "Fu\xDF.L"
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "Fu\xDF.R"
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Brust
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Oberarm.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Oberarm.R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Unterarm.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Unterarm.R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand.L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand.R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kopf
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: gliederpuppe_standup(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: gliederpuppe_standup(Clone)
+      position: {x: 0.00401845, y: 2.5597253, z: 0.0976701}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Steuerbone
+      parentName: Armature
+      position: {x: -0.00002962511, y: -0.0013667827, z: -0.025542816}
+      rotation: {x: 0.9999677, y: 0.000000098888634, z: -0.000012294963, w: -0.0080372}
+      scale: {x: 1, y: 1, z: 1.0013683}
+    - name: Ellbogen.L
+      parentName: Steuerbone
+      position: {x: -0.013841168, y: -0.014894344, z: -0.038476627}
+      rotation: {x: -0.71277106, y: 0.000008652374, z: 0.000008792152, w: 0.70139676}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Ellbogen.L_end
+      parentName: Ellbogen.L
+      position: {x: -0, y: 0.0036390573, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellbogen.R
+      parentName: Steuerbone
+      position: {x: 0.013818155, y: -0.014894344, z: -0.03847731}
+      rotation: {x: -0.71277106, y: 0.000008652374, z: 0.000008792152, w: 0.70139676}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Ellbogen.R_end
+      parentName: Ellbogen.R
+      position: {x: -0, y: 0.0036390573, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "Fu\xDF-IK.L"
+      parentName: Steuerbone
+      position: {x: -0.0020615351, y: -0.002531174, z: -0.0014153243}
+      rotation: {x: -0.0018918982, y: 0.98825085, z: 0.15251702, w: 0.009760398}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: "Fu\xDF-IK.L_end"
+      parentName: "Fu\xDF-IK.L"
+      position: {x: -0, y: 0.004875908, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "Fu\xDF-IK.R"
+      parentName: Steuerbone
+      position: {x: 0.0020403469, y: -0.0025311739, z: -0.001415425}
+      rotation: {x: 0.0047525214, y: 0.9882605, z: 0.15245472, w: 0.008730841}
+      scale: {x: 0.99999994, y: 0.99999964, z: 1.0000001}
+    - name: "Fu\xDF-IK.R_end"
+      parentName: "Fu\xDF-IK.R"
+      position: {x: -0, y: 0.004875908, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand-IK.L
+      parentName: Steuerbone
+      position: {x: -0.005334216, y: -0.0027317223, z: -0.022335537}
+      rotation: {x: 0.5167023, y: 0.52440184, z: 0.47434667, w: 0.48271802}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: Hand-IK.L_end
+      parentName: Hand-IK.L
+      position: {x: -0, y: 0.0046472433, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand-IK.R
+      parentName: Steuerbone
+      position: {x: 0.0051666014, y: -0.0027310892, z: -0.022296362}
+      rotation: {x: 0.48086765, y: 0.48914394, z: 0.510625, w: 0.5184271}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999998}
+    - name: Hand-IK.R_end
+      parentName: Hand-IK.R
+      position: {x: -0, y: 0.0046472433, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "H\xFCfte"
+      parentName: Steuerbone
+      position: {x: 0.000029022198, y: -0.0027805963, z: -0.024484321}
+      rotation: {x: -0.71277106, y: 0.0000086357, z: 0.000008775745, w: 0.70139676}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Brust
+      parentName: "H\xFCfte"
+      position: {x: 3.4325842e-19, y: 0.0073768627, z: -3.563622e-11}
+      rotation: {x: -0.000000012107197, y: -0.00000011920757, z: 3.7292208e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kopf
+      parentName: Brust
+      position: {x: -2.992311e-18, y: 0.01056865, z: 3.0864203e-17}
+      rotation: {x: -4.5474735e-13, y: 0.00000011920926, z: -3.86818e-15, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Kopf_end
+      parentName: Kopf
+      position: {x: -0, y: 0.0075098844, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sphere.041
+      parentName: Kopf
+      position: {x: -0.00014698078, y: 0.004282009, z: 0.00004292375}
+      rotation: {x: -0.70710486, y: 3.0083727e-11, z: -0.000000011036781, w: 0.7071087}
+      scale: {x: 1.2071307, y: 1.2071306, z: 1.2054528}
+    - name: Oberarm.L
+      parentName: Brust
+      position: {x: -0.0053927135, y: 0.008015722, z: 0.000014309623}
+      rotation: {x: -0.48917803, y: 0.48496163, z: 0.5148104, w: 0.5103796}
+      scale: {x: 0.9920258, y: 0.99999934, z: 1.0000001}
+    - name: Sphere.005
+      parentName: Oberarm.L
+      position: {x: 0.000100636484, y: 0.0058798604, z: 0.00000008678437}
+      rotation: {x: 0.5257482, y: -0.48329774, z: -0.4621517, w: 0.5257642}
+      scale: {x: 0.469955, y: 0.4705419, z: 0.47424582}
+    - name: Unterarm.L
+      parentName: Oberarm.L
+      position: {x: -5.867332e-11, y: 0.009415242, z: 1.4342369e-10}
+      rotation: {x: -0.0000044694225, y: -0.0035235821, z: 0.00323228, w: 0.99998856}
+      scale: {x: 0.9999931, y: 1, z: 1.0000057}
+    - name: Hand.L
+      parentName: Unterarm.L
+      position: {x: -1.1641532e-10, y: 0.00812664, z: 9.317883e-10}
+      rotation: {x: 0.0025791228, y: 0.9985472, z: -0.046274055, w: -0.027487665}
+      scale: {x: 1.0080966, y: 0.9999939, z: 0.9919764}
+    - name: Hand.L_end
+      parentName: Hand.L
+      position: {x: -0, y: 0.0046472433, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sphere.022
+      parentName: Hand.L
+      position: {x: 0.000079997066, y: 0.0021094156, z: 0.00035881114}
+      rotation: {x: 0.9987161, y: -0.0007240131, z: -0.031905442, w: 0.03934088}
+      scale: {x: 0.5058157, y: 1.5684776, z: 0.5051399}
+    - name: Sphere.006
+      parentName: Unterarm.L
+      position: {x: -0.000010676861, y: 0.0044937185, z: 0.00006351328}
+      rotation: {x: 0.7067143, y: -0.70619273, z: 0.03873634, w: 0.018611498}
+      scale: {x: 0.3917644, y: 0.39176524, z: 0.39122257}
+    - name: Oberarm.R
+      parentName: Brust
+      position: {x: 0.004729021, y: 0.007971565, z: 0.000014306608}
+      rotation: {x: 0.515421, y: 0.5103635, z: 0.4891461, w: -0.48436192}
+      scale: {x: 1.000861, y: 1.0000002, z: 0.99999934}
+    - name: Sphere.004
+      parentName: Oberarm.R
+      position: {x: -0.00002045393, y: 0.00520002, z: -0.00031519606}
+      rotation: {x: 0.49310148, y: -0.4784459, z: 0.50693667, w: 0.5205341}
+      scale: {x: 0.46991235, y: 0.47055218, z: 0.47053915}
+    - name: Unterarm.R
+      parentName: Oberarm.R
+      position: {x: 4.814938e-10, y: 0.009415244, z: 3.5762787e-10}
+      rotation: {x: 0.00008558733, y: 0.003522828, z: -0.0036340302, w: 0.9999872}
+      scale: {x: 0.9999989, y: 1.0000001, z: 1.000001}
+    - name: Hand.R
+      parentName: Unterarm.R
+      position: {x: -1.8626452e-10, y: 0.008126637, z: 4.3958429e-10}
+      rotation: {x: -0.041283883, y: 0.024161179, z: 0.0029536493, w: 0.99885094}
+      scale: {x: 0.9991407, y: 1.0000046, z: 1.000855}
+    - name: Hand.R_end
+      parentName: Hand.R
+      position: {x: -0, y: 0.0046472433, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sphere.021
+      parentName: Hand.R
+      position: {x: -0.000032673488, y: 0.0015464693, z: -0.00034914425}
+      rotation: {x: -0.007440454, y: -0.1027854, z: 0.9946641, w: -0.00481857}
+      scale: {x: 0.50581825, y: 1.5684034, z: 0.5051611}
+    - name: Sphere.007
+      parentName: Unterarm.R
+      position: {x: -0.000041123152, y: 0.0038805602, z: -0.00021415425}
+      rotation: {x: 0.4912581, y: -0.4766446, z: 0.50861615, w: 0.52228826}
+      scale: {x: 0.3912317, y: 0.39176533, z: 0.3917553}
+    - name: Sphere.038
+      parentName: Brust
+      position: {x: 0.00009113995, y: 0.004897677, z: 0.00012166367}
+      rotation: {x: -0.72024566, y: -0.0067487215, z: 0.0064996798, w: 0.69365585}
+      scale: {x: 0.6357234, y: 0.52754635, z: 0.813734}
+    - name: Oberschenkel.L
+      parentName: "H\xFCfte"
+      position: {x: -0.0020255628, y: -0.00068401615, z: 0.00027170405}
+      rotation: {x: 0.35182846, y: -0.002402972, z: 0.93606114, w: 0.00071533385}
+      scale: {x: 0.9999989, y: 1.000001, z: 0.9999783}
+    - name: Cylinder.003
+      parentName: Oberschenkel.L
+      position: {x: 0.00012725151, y: 0.005415607, z: 0.00021560122}
+      rotation: {x: 0.7128361, y: -0.006707501, z: -0.009316168, w: 0.7012367}
+      scale: {x: 0.692001, y: 0.6919673, z: 2.3399022}
+    - name: Unterschenkel.L
+      parentName: Oberschenkel.L
+      position: {x: 2.7311037e-10, y: 0.010681652, z: 7.450581e-11}
+      rotation: {x: -0.009609094, y: -0.008500869, z: 0.008709551, w: 0.9998798}
+      scale: {x: 0.99999803, y: 1, z: 0.99999905}
+    - name: Cylinder.001
+      parentName: Unterschenkel.L
+      position: {x: 0.000029503824, y: 0.0065845638, z: 0.0003144151}
+      rotation: {x: 0.70689076, y: 0.008966702, z: 0.004406554, w: 0.7072522}
+      scale: {x: 0.6919995, y: 0.6919563, z: 2.734128}
+    - name: "Fu\xDF.L"
+      parentName: Unterschenkel.L
+      position: {x: -0, y: 0.011709721, z: -5.960465e-11}
+      rotation: {x: 0.5538884, y: 0.28447387, z: -0.22126128, w: 0.7505503}
+      scale: {x: 1.0000367, y: 0.9998582, z: 1.0001063}
+    - name: "Fu\xDF.L_end"
+      parentName: "Fu\xDF.L"
+      position: {x: -0, y: 0.004827359, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sphere.012
+      parentName: "Fu\xDF.L"
+      position: {x: 0.0000785532, y: 0.0016004379, z: -0.0013244519}
+      rotation: {x: 0.009785688, y: -0.1606536, z: 0.9869607, w: -0.0018129345}
+      scale: {x: 0.7505834, y: 2.3269932, z: 0.7496852}
+    - name: Oberschenkel.R
+      parentName: "H\xFCfte"
+      position: {x: 0.0019451939, y: -0.0006840162, z: 0.00027170405}
+      rotation: {x: -0.35101172, y: -0.0024077615, z: 0.9363677, w: -0.00072801526}
+      scale: {x: 0.9999989, y: 1.0000008, z: 0.9999783}
+    - name: Cylinder.002
+      parentName: Oberschenkel.R
+      position: {x: -0.00008361876, y: 0.006194411, z: 0.00014998317}
+      rotation: {x: 0.7136326, y: 0.006673761, z: 0.011520801, w: 0.70039374}
+      scale: {x: 0.6920003, y: 0.69196737, z: 2.339904}
+    - name: Unterschenkel.R
+      parentName: Oberschenkel.R
+      position: {x: -1.7229468e-11, y: 0.0106816515, z: -2.0861626e-10}
+      rotation: {x: -0.009607331, y: 0.008500866, z: -0.008707975, w: 0.99987984}
+      scale: {x: 0.99999803, y: 0.9999998, z: 0.9999991}
+    - name: Cylinder
+      parentName: Unterschenkel.R
+      position: {x: -0.00030313875, y: 0.0066091227, z: 0.00031199315}
+      rotation: {x: 0.7068819, y: 0.00052486645, z: 0.00543276, w: 0.70731056}
+      scale: {x: 0.6919967, y: 0.69195616, z: 2.734138}
+    - name: "Fu\xDF.R"
+      parentName: Unterschenkel.R
+      position: {x: -0, y: 0.011709725, z: 1.192093e-10}
+      rotation: {x: 0.5581244, y: -0.2978521, z: 0.21036011, w: 0.7453388}
+      scale: {x: 1.00003, y: 0.999858, z: 1.0001134}
+    - name: "Fu\xDF.R_end"
+      parentName: "Fu\xDF.R"
+      position: {x: -0, y: 0.004827359, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sphere.023
+      parentName: "Fu\xDF.R"
+      position: {x: 0.00025011814, y: 0.0016076189, z: -0.0013567266}
+      rotation: {x: 0.008704067, y: -0.16059142, z: 0.98697084, w: 0.0048229927}
+      scale: {x: 0.7505855, y: 2.3269932, z: 0.74968284}
+    - name: Sphere.009
+      parentName: "H\xFCfte"
+      position: {x: 0.0001517386, y: 0.0018854018, z: 0.00009774924}
+      rotation: {x: -0.70710486, y: 7.661797e-11, z: -0.000000011094666, w: 0.7071087}
+      scale: {x: 0.6646717, y: 0.6646716, z: 0.6637479}
+    - name: Knie.L
+      parentName: Steuerbone
+      position: {x: -0.001957106, y: 0.0076265465, z: -0.0132749025}
+      rotation: {x: -0.71277106, y: 0.0000086362425, z: 0.000008776278, w: 0.70139676}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Knie.L_end
+      parentName: Knie.L
+      position: {x: -0, y: 0.0049207984, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Knie.R
+      parentName: Steuerbone
+      position: {x: 0.0019353332, y: 0.0076265465, z: -0.013274999}
+      rotation: {x: -0.71277106, y: 0.000008636241, z: 0.000008776276, w: 0.70139676}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Knie.R_end
+      parentName: Knie.R
+      position: {x: -0, y: 0.0049207984, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Camera
+      parentName: gliederpuppe_standup(Clone)
+      position: {x: -3.453022, y: 3.449514, z: 1.301528}
+      rotation: {x: 0.21255729, y: 0.904797, z: -0.084389366, w: -0.35922173}
+      scale: {x: 100, y: 100.00001, z: 99.99999}
+    - name: Lamp
+      parentName: gliederpuppe_standup(Clone)
+      position: {x: -3.4173703, y: 6.0262365, z: -0.2010908}
+      rotation: {x: 0.16907571, y: -0.75588036, z: 0.27217132, w: 0.57094747}
+      scale: {x: 100.00001, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
